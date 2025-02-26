@@ -32,4 +32,7 @@ This project classifies tweets into different sentiment categories using deep le
 - **Text Preprocessing**: NLTK, Regex (`re`)  
 - **Data Handling**: Pandas, NumPy  
 - **Train-Test Split**: Scikit-Learn  
-- **Data Visualization**: Matplotlib  
+- **Data Visualization**: Matplotlib
+
+  ![image](https://github.com/user-attachments/assets/e916aa43-0a5c-44d1-a26b-3546fadf4085)
+
